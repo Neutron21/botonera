@@ -1,0 +1,25 @@
+.colorButton { 
+    border-radius: 5px;
+    width: 7rem;
+    height: 2rem;
+    color: aliceblue;
+    cursor: pointer;
+    opacity: 0.9;
+    text-transform: capitalize;
+}
+.colorButton:hover { 
+    opacity: 1;
+    font-weight: 800;
+}
+.red {
+    background-color: red;
+}
+.green {
+    background-color: green;
+}
+.purple {
+    background-color: purple;
+}
+.pink {
+    background-color: palevioletred;
+}

@@ -1,0 +1,8 @@
+.main {
+    display: grid;
+    grid-template-columns: minmax(50vw, 80vw);
+    gap: 2.5rem;
+    justify-content: center;
+    justify-items: center;
+    margin-top: 5%;
+}
